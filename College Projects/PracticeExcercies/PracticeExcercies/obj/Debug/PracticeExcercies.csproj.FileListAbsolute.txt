@@ -1,0 +1,15 @@
+c:\users\30007935\documents\visual studio 2012\Projects\PracticeExcercies\PracticeExcercies\bin\Debug\PracticeExcercies.exe.config
+c:\users\30007935\documents\visual studio 2012\Projects\PracticeExcercies\PracticeExcercies\bin\Debug\PracticeExcercies.exe
+c:\users\30007935\documents\visual studio 2012\Projects\PracticeExcercies\PracticeExcercies\bin\Debug\PracticeExcercies.pdb
+c:\users\30007935\documents\visual studio 2012\Projects\PracticeExcercies\PracticeExcercies\obj\Debug\PracticeExcercies.csprojResolveAssemblyReference.cache
+c:\users\30007935\documents\visual studio 2012\Projects\PracticeExcercies\PracticeExcercies\obj\Debug\PracticeExcercies.exe
+c:\users\30007935\documents\visual studio 2012\Projects\PracticeExcercies\PracticeExcercies\obj\Debug\PracticeExcercies.pdb
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\PracticeExcercies\PracticeExcercies\bin\Debug\PracticeExcercies.exe.config
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\PracticeExcercies\PracticeExcercies\obj\Debug\PracticeExcercies.exe
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\PracticeExcercies\PracticeExcercies\obj\Debug\PracticeExcercies.pdb
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\PracticeExcercies\PracticeExcercies\bin\Debug\PracticeExcercies.exe.config
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\PracticeExcercies\PracticeExcercies\obj\Debug\PracticeExcercies.exe
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\PracticeExcercies\PracticeExcercies\obj\Debug\PracticeExcercies.pdb
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\PracticeExcercies\PracticeExcercies\bin\Debug\PracticeExcercies.exe
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\PracticeExcercies\PracticeExcercies\bin\Debug\PracticeExcercies.pdb
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\PracticeExcercies\PracticeExcercies\obj\Debug\PracticeExcercies.csprojResolveAssemblyReference.cache

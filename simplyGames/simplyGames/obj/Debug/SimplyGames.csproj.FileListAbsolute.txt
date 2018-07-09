@@ -1,0 +1,90 @@
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\bin\Debug\SimplyGames.exe.config
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\SimplyGames.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\MainWindow.baml
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\App.g.cs
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\SimplyGames_MarkupCompile.cache
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\SimplyGames.g.resources
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\SimplyGames.Properties.Resources.resources
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\SimplyGames.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\bin\Debug\SimplyGames.exe
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\bin\Debug\SimplyGames.pdb
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\SimplyGames.exe
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\SimplyGames.pdb
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\addGame.baml
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\addGame.g.cs
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\chooseEdit.baml
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\editGame.baml
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\chooseEdit.g.cs
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\editGame.g.cs
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\SearchGame.baml
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\SearchGame.g.cs
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\People.baml
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\People.g.cs
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\OrderForm.baml
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\OrderForm.g.cs
+E:\simplyGames\SimplyGames\bin\Debug\SimplyGames.exe.config
+E:\simplyGames\SimplyGames\obj\Debug\SimplyGames.exe
+E:\simplyGames\SimplyGames\obj\Debug\SimplyGames.pdb
+E:\simplyGames\SimplyGames\bin\Debug\SimplyGames.exe
+E:\simplyGames\SimplyGames\bin\Debug\SimplyGames.pdb
+E:\simplyGames\SimplyGames\obj\Debug\SimplyGames.csprojResolveAssemblyReference.cache
+E:\simplyGames\SimplyGames\obj\Debug\addGame.baml
+E:\simplyGames\SimplyGames\obj\Debug\chooseEdit.baml
+E:\simplyGames\SimplyGames\obj\Debug\editGame.baml
+E:\simplyGames\SimplyGames\obj\Debug\MainWindow.baml
+E:\simplyGames\SimplyGames\obj\Debug\OrderForm.baml
+E:\simplyGames\SimplyGames\obj\Debug\People.baml
+E:\simplyGames\SimplyGames\obj\Debug\SearchGame.baml
+E:\simplyGames\SimplyGames\obj\Debug\addGame.g.cs
+E:\simplyGames\SimplyGames\obj\Debug\chooseEdit.g.cs
+E:\simplyGames\SimplyGames\obj\Debug\editGame.g.cs
+E:\simplyGames\SimplyGames\obj\Debug\MainWindow.g.cs
+E:\simplyGames\SimplyGames\obj\Debug\OrderForm.g.cs
+E:\simplyGames\SimplyGames\obj\Debug\People.g.cs
+E:\simplyGames\SimplyGames\obj\Debug\SearchGame.g.cs
+E:\simplyGames\SimplyGames\obj\Debug\App.g.cs
+E:\simplyGames\SimplyGames\obj\Debug\SimplyGames_MarkupCompile.cache
+E:\simplyGames\SimplyGames\obj\Debug\SimplyGames.g.resources
+E:\simplyGames\SimplyGames\obj\Debug\SimplyGames.Properties.Resources.resources
+E:\simplyGames\SimplyGames\obj\Debug\SimplyGames.csproj.GenerateResource.Cache
+E:\simplyGames\SimplyGames\obj\Debug\staffLogin.baml
+E:\simplyGames\SimplyGames\obj\Debug\staffLogin.g.cs
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\staffLogin.baml
+C:\Users\Ryan\Desktop\SimplyGames\SimplyGames\obj\Debug\staffLogin.g.cs
+E:\simplyGames\SimplyGames\obj\Debug\StaffSelection.baml
+E:\simplyGames\SimplyGames\obj\Debug\StaffSelection.g.cs
+C:\Users\Ryan\Desktop\simplyGames\SimplyGames\obj\Debug\StaffSelection.baml
+C:\Users\Ryan\Desktop\simplyGames\SimplyGames\obj\Debug\StaffSelection.g.cs
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\bin\Debug\SimplyGames.exe.config
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\SimplyGames.exe
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\SimplyGames.pdb
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\bin\Debug\SimplyGames.exe
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\bin\Debug\SimplyGames.pdb
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\SimplyGames.csprojResolveAssemblyReference.cache
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\addGame.baml
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\chooseEdit.baml
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\editGame.baml
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\MainWindow.baml
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\OrderForm.baml
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\People.baml
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\SearchGame.baml
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\staffLogin.baml
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\StaffSelection.baml
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\addGame.g.cs
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\chooseEdit.g.cs
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\editGame.g.cs
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\MainWindow.g.cs
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\OrderForm.g.cs
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\People.g.cs
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\SearchGame.g.cs
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\staffLogin.g.cs
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\StaffSelection.g.cs
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\App.g.cs
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\SimplyGames_MarkupCompile.cache
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\SimplyGames.g.resources
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\SimplyGames.Properties.Resources.resources
+E:\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\SimplyGames.csproj.GenerateResource.Cache
+D:\Media\Documents\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\bin\Debug\SimplyGames.exe.config
+D:\Media\Documents\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\SimplyGames.exe
+D:\Media\Documents\College\HND\Graded Unit 2\Project\Examples\simplyGames\SimplyGames\obj\Debug\SimplyGames.pdb

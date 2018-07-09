@@ -1,0 +1,18 @@
+c:\users\30007935\documents\visual studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\bin\Debug\SimpleCurrencyConverter.exe.config
+c:\users\30007935\documents\visual studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\bin\Debug\SimpleCurrencyConverter.exe
+c:\users\30007935\documents\visual studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\bin\Debug\SimpleCurrencyConverter.pdb
+c:\users\30007935\documents\visual studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\obj\Debug\SimpleCurrencyConverter.exe
+c:\users\30007935\documents\visual studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\obj\Debug\SimpleCurrencyConverter.pdb
+c:\users\30007935\documents\visual studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\obj\Debug\SimpleCurrencyConverter.csprojResolveAssemblyReference.cache
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\bin\Debug\SimpleCurrencyConverter.exe.config
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\obj\Debug\SimpleCurrencyConverter.exe
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\obj\Debug\SimpleCurrencyConverter.pdb
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\bin\Debug\SimpleCurrencyConverter.exe
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\bin\Debug\SimpleCurrencyConverter.pdb
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\obj\Debug\SimpleCurrencyConverter.csprojResolveAssemblyReference.cache
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\bin\Debug\SimpleCurrencyConverter.exe.config
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\obj\Debug\SimpleCurrencyConverter.exe
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\obj\Debug\SimpleCurrencyConverter.pdb
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\bin\Debug\SimpleCurrencyConverter.exe
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\bin\Debug\SimpleCurrencyConverter.pdb
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\SimpleCurrencyConverter\SimpleCurrencyConverter\obj\Debug\SimpleCurrencyConverter.csprojResolveAssemblyReference.cache

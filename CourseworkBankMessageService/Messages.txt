@@ -1,0 +1,19 @@
+T316604321
+Sender: @Testing
+Hello
+
+E709368482
+Sender: test@gmail.com
+Subject: testing email
+Testing out the standard email
+
+E709368482
+Sender: testing@gmail.com
+Sort Code: 1-72-2
+Nature of Incident: Cash Loss
+Subject: SIR 22/11/16 18:21:26
+Testing out the Incident report email
+
+S523237569
+Sender: 777777777
+Testing out the sms message

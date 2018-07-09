@@ -1,0 +1,16 @@
+c:\users\ajbryden\documents\visual studio 2013\Projects\tempTester\tempTester\bin\Debug\tempTester.exe.config
+c:\users\ajbryden\documents\visual studio 2013\Projects\tempTester\tempTester\bin\Debug\tempTester.exe
+c:\users\ajbryden\documents\visual studio 2013\Projects\tempTester\tempTester\bin\Debug\tempTester.pdb
+c:\users\ajbryden\documents\visual studio 2013\Projects\tempTester\tempTester\obj\Debug\tempTester.csprojResolveAssemblyReference.cache
+c:\users\ajbryden\documents\visual studio 2013\Projects\tempTester\tempTester\obj\Debug\tempTester.exe
+c:\users\ajbryden\documents\visual studio 2013\Projects\tempTester\tempTester\obj\Debug\tempTester.pdb
+C:\Users\30007935\Documents\Visual Studio 2012\Projects\tempTester\tempTester\bin\Debug\tempTester.exe.config
+C:\Users\30007935\Documents\Visual Studio 2012\Projects\tempTester\tempTester\obj\Debug\tempTester.exe
+C:\Users\30007935\Documents\Visual Studio 2012\Projects\tempTester\tempTester\obj\Debug\tempTester.pdb
+C:\Users\30007935\Documents\Visual Studio 2012\Projects\tempTester\tempTester\bin\Debug\tempTester.exe
+C:\Users\30007935\Documents\Visual Studio 2012\Projects\tempTester\tempTester\bin\Debug\tempTester.pdb
+C:\Users\30007935\Documents\Visual Studio 2012\Projects\tempTester\tempTester\obj\Debug\tempTester.csprojResolveAssemblyReference.cache
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\tempTester\tempTester\bin\Debug\tempTester.exe.config
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\tempTester\tempTester\obj\Debug\tempTester.exe
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\tempTester\tempTester\obj\Debug\tempTester.pdb
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\tempTester\tempTester\obj\Debug\tempTester.csprojResolveAssemblyReference.cache

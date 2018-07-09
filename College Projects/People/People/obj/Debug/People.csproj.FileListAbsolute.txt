@@ -1,0 +1,12 @@
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\bin\Debug\People.exe.config
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\bin\Debug\People.exe
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\bin\Debug\People.pdb
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\obj\Debug\People.exe
+E:\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\obj\Debug\People.pdb
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\bin\Debug\People.exe.config
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\bin\Debug\People.exe
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\bin\Debug\People.pdb
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\obj\Debug\People.exe
+D:\Media\Documents\College\HND\Object Orientated Programming\Visual Studio 2012\Projects\People\People\obj\Debug\People.pdb

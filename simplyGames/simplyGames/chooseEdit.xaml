@@ -1,0 +1,11 @@
+﻿<Window x:Class="SimplyGames.chooseEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="chooseEdit" Height="170" Width="170">
+    <Grid Background="#FF879191">
+        <ComboBox x:Name="cmbEdit" HorizontalAlignment="Left" Margin="21,41,0,0" VerticalAlignment="Top" Width="117" SelectionChanged="cmbEdit_SelectionChanged"/>
+        <Label x:Name="lblEdit" Content="Choose Game to Edit" HorizontalAlignment="Left" Margin="21,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="21,68,0,0" VerticalAlignment="Top" Width="117" Click="btnCancel_Click"/>
+
+    </Grid>
+</Window>

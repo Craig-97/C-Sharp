@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SubmarineControlSystem.AirlockDoorMonitor">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>AirlockDoorMonitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubmarineControlSystem.Controller">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEgAAAAIAAAAECABABBAAAAAAAABAAADAEAACA=</HashCode>
+      <FileName>Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubmarineControlSystem.DepthMonitor">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAgAAAAAAAAAAAAgAAAAAAAAoAAAAAA=</HashCode>
+      <FileName>DepthMonitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubmarineControlSystem.KeyTorpedo">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAACAAAAAAAAEAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>KeyTorpedo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubmarineControlSystem.OxygenMonitor">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAACAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>OxygenMonitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubmarineControlSystem.Program">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubmarineControlSystem.RadarMonitor">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAAAAgAAAAAA=</HashCode>
+      <FileName>RadarMonitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubmarineControlSystem.SubControlDashboard">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQBgCCAAAAgCAAAAAAgAAAAJgAAAgEAQAoAAwAAA=</HashCode>
+      <FileName>SubControlDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubmarineControlSystem.SubControlSystem">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIQAAAAAEAAEAAAAAAAAAAAAIAAgAAiAAAAIA=</HashCode>
+      <FileName>SubControlSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubmarineControlSystem.TempMonitor">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAABAAAAAAgAAAAAA=</HashCode>
+      <FileName>TempMonitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SubmarineControlSystem.AirlockDoorState">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AirlockDoorState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SubmarineControlSystem.KeyTorpedoState">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KeyTorpedoState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SubmarineControlSystem.OxygenState">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAQAAQAAAAAAA=</HashCode>
+      <FileName>OxygenState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SubmarineControlSystem.RadarState">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RadarState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SubmarineControlSystem.SubControlState">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubControlState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SubmarineControlSystem.TempState">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAE=</HashCode>
+      <FileName>TempState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

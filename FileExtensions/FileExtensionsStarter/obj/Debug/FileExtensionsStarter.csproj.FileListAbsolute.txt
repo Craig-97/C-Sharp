@@ -1,0 +1,58 @@
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.exe.config
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.exe
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.pdb
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.csprojResolveAssemblyReference.cache
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\MainWindow.baml
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\MainWindow.g.cs
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\App.g.cs
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter_MarkupCompile.cache
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.g.resources
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.Properties.Resources.resources
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.csproj.GenerateResource.Cache
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.exe
+\\mcl_sthome2\sthome2\painsworth\my documents\visual studio 2012\Projects\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.pdb
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.exe.config
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.exe
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.pdb
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.exe
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.pdb
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\MainWindow.baml
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\MainWindow.g.cs
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\App.g.cs
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter_MarkupCompile.cache
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.g.resources
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.csproj.GenerateResource.Cache
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.exe.config
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.exe
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.pdb
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.csprojResolveAssemblyReference.cache
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\MainWindow.baml
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\MainWindow.g.cs
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\App.g.cs
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter_MarkupCompile.cache
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.g.resources
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.csproj.GenerateResource.Cache
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsProgram.Properties.Resources.resources
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.exe
+C:\Users\30008048\Desktop\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.pdb
+F:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.exe.config
+F:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.exe
+F:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.pdb
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsProgram.Properties.Resources.resources
+E:\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.csprojResolveAssemblyReference.cache
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.exe.config
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.exe
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.pdb
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.exe
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.pdb
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.csprojResolveAssemblyReference.cache
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\MainWindow.baml
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\MainWindow.g.cs
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\App.g.cs
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter_MarkupCompile.cache
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.g.resources
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsProgram.Properties.Resources.resources
+D:\Media\Documents\College\HND\Data Structures\Projects\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.csproj.GenerateResource.Cache
+D:\Downloads\Portfolio-Projects-CraigBaxter\C#\FileExtensions\FileExtensionsStarter\bin\Debug\FileExtensionsStarter.exe.config
+D:\Downloads\Portfolio-Projects-CraigBaxter\C#\FileExtensions\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.exe
+D:\Downloads\Portfolio-Projects-CraigBaxter\C#\FileExtensions\FileExtensionsStarter\obj\Debug\FileExtensionsStarter.pdb

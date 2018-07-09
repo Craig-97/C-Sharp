@@ -1,0 +1,22 @@
+﻿<Window x:Name="AboutWindow" x:Class="HillRaceSystem.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="500" Width="800"  Closed="Window_Closed">
+    <Grid>
+        <Grid.OpacityMask>
+            <ImageBrush ImageSource="Images/background.png"/>
+        </Grid.OpacityMask>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/background.png"/>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Height="40" Margin="408,124,0,0" TextWrapping="Wrap" Text="About Us" VerticalAlignment="Top" Width="291" FontSize="30" FontFamily="Arial" Foreground="White" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Height="40" Margin="10,44,0,0" TextWrapping="Wrap" Text="Races" VerticalAlignment="Top" Width="393" FontSize="30" FontFamily="Arial" Foreground="White" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Height="40" Margin="10,287,0,0" TextWrapping="Wrap" Text="Runners" VerticalAlignment="Top" Width="393" FontSize="30" FontFamily="Arial" Foreground="White" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Height="32" Margin="408,295,0,0" TextWrapping="Wrap" Text="Contact" VerticalAlignment="Top" Width="291" FontSize="30" FontFamily="Arial" Foreground="White" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Height="187" Margin="10,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="393" Foreground="White"><Run Text="There are plenty of hill races in Scotland to choose from and before you decide which one you want to run it's useful to know something about the race."/><LineBreak/><Run/><LineBreak/><Run Text="On the Scottish Hill Racing website we provide a month-by-month calendar of all the major races during the year so you know what's on offer well in advance."/><LineBreak/><Run/><LineBreak/><Run Text="For each race, in addition to the time and location of the event, a description, map of the route and previous winning times are also included to make sure you're fully in the picture."/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="127" Margin="10,332,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="383" Foreground="White"><Run Text="It's natural to be curious about the other runners you're competing against, but prior to Scottish Hill Racing a comprehensive online picture of these runners simply didn't exist."/><LineBreak/><Run/><LineBreak/><Run Text="One of the main reasons the site was established was to address this need and since 2005 we have built up a unique database currently profiling 14962 runners."/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="51" Margin="408,332,0,0" TextWrapping="Wrap" Text="To contact us regarding this system or the website, its content or advertising please email: scottishhillracing@yahoo.co.uk" VerticalAlignment="Top" Width="291" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Height="97" Margin="408,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="291" Foreground="White"><Run Text="Scottish Hill Racing provides the most comprehensive and up to date source of information on hill racing in Scotland. "/><LineBreak/><Run/><LineBreak/><Run Text="Scottish Hill Racing concentrates on four main areas: Races, Results, Runners and Clubs"/></TextBlock>
+
+    </Grid>
+</Window>

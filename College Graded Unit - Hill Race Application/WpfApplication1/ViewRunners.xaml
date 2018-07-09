@@ -1,0 +1,30 @@
+﻿<Window x:Name="ViewRunnersWindow" x:Class="HillRaceSystem.ViewRunners"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            Title="ViewRunners" Height="500" Width="800" Closed="ViewRunnersWindow_Closed">
+    <Window.Background>
+        <ImageBrush/>
+    </Window.Background>
+    <Grid>
+        <Grid.OpacityMask>
+            <ImageBrush ImageSource="Images/background.png"/>
+        </Grid.OpacityMask>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/background.png"/>
+        </Grid.Background>
+        <TextBox x:Name="txtDisplay" HorizontalAlignment="Left" Height="325" Margin="37,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="329" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" FontSize="20" Foreground="Black"/>
+        <Button x:Name="btnListJunior" Content="List Junior" HorizontalAlignment="Left" Height="31" Margin="37,405,0,0" VerticalAlignment="Top" Width="115" Click="btnListJunior_Click" FontSize="20" Foreground="Black"/>
+        <Button x:Name="btnListAll" Content="List All" HorizontalAlignment="Left" Height="31" Margin="157,405,0,0" VerticalAlignment="Top" Width="87" Click="btnListAll_Click" FontSize="20" Foreground="Black"/>
+        <Button x:Name="btnListSenior" Content="List Senior" HorizontalAlignment="Left" Height="31" Margin="249,405,0,0" VerticalAlignment="Top" Width="117" Click="btnListSenior_Click" FontSize="20" Foreground="Black"/>
+        <TextBox x:Name="txtSHRNumber" HorizontalAlignment="Left" Height="35" Margin="523,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" FontSize="20" Foreground="White" Background="#FF000572"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="35" Margin="523,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" FontSize="20" Foreground="White" Background="#FF000572"/>
+        <TextBox x:Name="txtGender" HorizontalAlignment="Left" Height="37" Margin="523,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" FontSize="20" Foreground="White" Background="#FF000572"/>
+        <Label Content="SHR Number" HorizontalAlignment="Left" Height="35" Margin="382,68,0,0" VerticalAlignment="Top" Width="133" FontSize="20" Foreground="White"/>
+        <Label Content="Name" HorizontalAlignment="Left" Height="35" Margin="382,120,0,0" VerticalAlignment="Top" Width="133" FontSize="20" Foreground="White"/>
+        <Label x:Name="lblOther" Content="Gender" HorizontalAlignment="Left" Height="37" Margin="382,173,0,0" VerticalAlignment="Top" Width="133" FontSize="20" Foreground="White"/>
+        <RadioButton x:Name="radioJunior" Content="Junior" HorizontalAlignment="Left" Height="28" Margin="397,227,0,0" VerticalAlignment="Top" Width="95" GroupName="Person" Checked="radioJunior_Checked" FontSize="20" Foreground="White"/>
+        <RadioButton x:Name="radioSenior" Content="Senior" HorizontalAlignment="Left" Height="28" Margin="523,227,0,0" VerticalAlignment="Top" Width="142" GroupName="Person" Checked="radioSenior_Checked" FontSize="20" Foreground="White"/>
+        <Button x:Name="btnAddRunner" Content="Add Runner" HorizontalAlignment="Left" Height="45" Margin="435,275,0,0" VerticalAlignment="Top" Width="204" Click="btnAddRunner_Click" FontSize="20" Foreground="Black"/>
+        <Label Content="NEXT RACE SIGNUPS" HorizontalAlignment="Left" Height="35" Margin="37,14,0,0" VerticalAlignment="Top" Width="202" FontSize="20" Foreground="White"/>
+    </Grid>
+</Window>

@@ -1,0 +1,179 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LinearArrayList
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            testAddingLast();
+            testAddingFirst();
+            testRemoveFirst();
+            testRemoveLast();
+            testIsFull();
+            testIsEmpty();
+            testDestroy();
+            Console.ReadLine();
+        }
+
+        /// <summary>
+        /// tests removeFirst with
+        /// empty list
+        /// list with 1 value
+        /// list with 2 values
+        /// list full
+        /// 
+        /// uses addlast
+        /// </summary>
+        private static void testRemoveFirst()
+        {
+            LinearArrayList mylist = new LinearArrayList(3);
+            int value; //to store value removed
+            Console.WriteLine("Testing removefirst with empty list");
+            try
+            {
+                value = mylist.removeFirst();
+                Console.WriteLine("Test failed, should have thrown exeption");
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine("Test passed " + ex.Message);
+            }
+            mylist.addLast(12);
+            mylist.addLast(14);
+            mylist.addLast(15);
+            Console.WriteLine("Testing with 3 values in list");
+            Console.WriteLine("Expect value 12 to be removed");
+            value = mylist.removeFirst();
+            Console.WriteLine("Value contains " + value);
+
+            Console.ReadLine();
+        }
+
+        /// <summary>
+        /// Testing addLast
+        /// 
+        /// I will be testing addLast
+        /// by adding a value to the array
+        /// then removing the last value in the array
+        /// as i know removeLast works
+        /// then displaying the last value i removed.
+        /// </summary>
+        private static void testAddingLast()
+        {
+            LinearArrayList mylist = new LinearArrayList(3);
+
+            int value; //declaring value as integer
+
+            Console.WriteLine("Testing addLast");
+            Console.WriteLine("The value that will be added then removed is 2");
+            mylist.addLast(2);
+            value = mylist.removeLast();
+            Console.WriteLine("Value contains " + value + "\n"); //displaying the last item added (which i removed to display)
+            Console.WriteLine("The value that will be added then removed is 45");
+            mylist.addLast(45);
+            value = mylist.removeLast();
+            Console.WriteLine("Value contains " + value + "\n"); //displaying the last item added (which i removed to display)
+            Console.ReadLine();
+        }
+
+        /// <summary>
+        /// Testing addFirst
+        /// 
+        /// I will be testing addFirst
+        /// by adding the first value to the array
+        /// then removing the first value in the array
+        /// as i know removeFirst works
+        /// then displaying the last value i removed.
+        /// </summary>
+        private static void testAddingFirst()
+        {
+            LinearArrayList mylist = new LinearArrayList(3);
+
+            int value; //declaring value as integer
+
+            Console.WriteLine("Testing addFirst");
+            Console.WriteLine("The value that will be added then removed is 10");
+            mylist.addFirst(10);
+            value = mylist.removeFirst();
+            Console.WriteLine("Value contains " + value + "\n"); //displaying the first item added (which i removed to display)
+            Console.WriteLine("The value that will be added then removed is 15");
+            mylist.addFirst(15);
+            value = mylist.removeFirst();
+            Console.WriteLine("Value contains " + value + "\n"); //displaying the first item added (which i removed to display)
+
+            Console.ReadLine();
+        }
+
+        /// <summary>
+        /// tests removeLast with
+        /// empty list
+        /// list full
+        /// 
+        /// uses addLast
+        /// </summary>
+        private static void testRemoveLast()
+        {
+            LinearArrayList mylist = new LinearArrayList(3);
+            int value; //to store value removed
+            Console.WriteLine("Testing removeLast with empty list");
+            try
+            {
+                value = mylist.removeLast();
+                Console.WriteLine("Test failed, should have thrown exeption");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Test passed " + ex.Message);
+            }
+            mylist.addLast(12);
+            mylist.addLast(14);
+            mylist.addLast(15);
+            Console.WriteLine("Testing with 3 values in list");
+            Console.WriteLine("Expect value 15 to be removed");
+            value = mylist.removeLast();
+            Console.WriteLine("Value contains " + value);
+
+            Console.ReadLine();
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        private static void testIsFull()
+        {
+            Console.WriteLine("Testing IsFull");
+            LinearArrayList mylist = new LinearArrayList(3);
+            mylist.addFirst(10);
+            mylist.addLast(15);
+            mylist.addLast(20);
+            mylist.displayUI();
+
+            Console.ReadLine();
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        private static void testIsEmpty()
+        {
+            Console.WriteLine("Testing IsEmpty");
+
+            Console.ReadLine();
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        private static void testDestroy()
+        {
+            Console.WriteLine("Testing IsDestroy");
+
+            Console.ReadLine();
+        }
+    }
+}

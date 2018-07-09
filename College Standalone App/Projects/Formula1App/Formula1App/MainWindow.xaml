@@ -1,0 +1,124 @@
+﻿<Window x:Class="Formula1App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Formula 1 Session Times App" Height="620" Width="808">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Image Stretch="None" Source="Front-Page-backround.png"/>
+        <Button x:Name="btnAustralia" Content="" HorizontalAlignment="Left" Margin="397,48,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnAustralia_Click">
+            <Button.OpacityMask>
+                <ImageBrush ImageSource="Australia-button.png"/>
+            </Button.OpacityMask>
+            <Button.Background>
+                <ImageBrush ImageSource="Australia-button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnChina" Content="" HorizontalAlignment="Left" Margin="397,97,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnChina_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="China-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnSpain" Content="" HorizontalAlignment="Left" Margin="397,147,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnSpain_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Spain-button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnMalaysia" Content="" HorizontalAlignment="Left" Margin="597,48,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnMalaysia_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Malaysia-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnBahrain" Content="" HorizontalAlignment="Left" Margin="597,97,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnBahrain_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Bahrain-button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnMonaco" Content="" HorizontalAlignment="Left" Margin="597,147,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnMonaco_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Monaco-button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnCanada" Content="" HorizontalAlignment="Left" Margin="397,197,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnCanada_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Canada-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnBritain" Content="" HorizontalAlignment="Left" Margin="397,246,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnBritain_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Britain-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnHungary" Content="" HorizontalAlignment="Left" Margin="397,296,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnHungary_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Hungary-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnAustria" Content="" HorizontalAlignment="Left" Margin="597,197,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnAustria_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Austria-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnGermany" Content="" HorizontalAlignment="Left" Margin="597,246,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnGermany_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Germany-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnBelgium" Content="" HorizontalAlignment="Left" Margin="597,296,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnBelgium_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Belgium-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnItaly" Content="" HorizontalAlignment="Left" Margin="397,345,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnItaly_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Italy-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnJapan" Content="" HorizontalAlignment="Left" Margin="397,394,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnJapan_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Japan-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnUSA" Content="" HorizontalAlignment="Left" Margin="397,444,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnUSA_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="USA-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnSingapore" Content="" HorizontalAlignment="Left" Margin="597,345,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnSingapore_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Singapore-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnRussia" Content="" HorizontalAlignment="Left" Margin="597,394,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnRussia_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Russia-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnMexico" Content="" HorizontalAlignment="Left" Margin="597,444,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnMexico_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Mexico-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnBrazil" Content="" HorizontalAlignment="Left" Margin="397,494,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnBrazil_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Brazil-Button.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnAbuDhabi" Content="" HorizontalAlignment="Left" Margin="597,494,0,0" VerticalAlignment="Top" Width="194" Height="48" Click="btnAbuDhabi_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Abu-Dhabi-Button.png"/>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="txtCount" HorizontalAlignment="Left" Height="72" Margin="34,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="337" FontSize="25" TextAlignment="Center" FontFamily="American Captain" >
+            <TextBox.Background>
+                <ImageBrush/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="txtGrandPrix" HorizontalAlignment="Left" Height="60" Margin="33,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="338" FontSize="25" TextAlignment="Center" FontFamily="American Captain" >
+            <TextBox.Background>
+                <ImageBrush/>
+            </TextBox.Background>
+        </TextBox>
+    </Grid>
+</Window>

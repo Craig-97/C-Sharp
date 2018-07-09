@@ -1,0 +1,30 @@
+﻿<Window x:Class="SimplyGames.addGame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="addGame" Height="375" Width="550">
+    <Grid Background="#FF879191">
+        <Image Margin="0,0,0,269" Source="Images/SimplyGamesProductBanner.jpg" Stretch="Fill"/>
+
+        <Label x:Name="lblName" Content="Name" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblPlatform" Content="Platform" HorizontalAlignment="Left" Margin="376,85,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblQuantity" Content="Quantity" HorizontalAlignment="Left" Margin="13,147,0,0" VerticalAlignment="Top" Width="59"/>
+        <Label x:Name="lblCode" Content="Product Code" HorizontalAlignment="Left" Margin="143,147,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblGenre" Content="Genre" HorizontalAlignment="Left" Margin="146,85,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblPrice" Content="Price £" HorizontalAlignment="Left" Margin="267,147,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblPegi" Content="PEGI Rating" HorizontalAlignment="Left" Margin="267,85,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDesc" Content="Description" HorizontalAlignment="Left" Margin="10,201,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtDesc" HorizontalAlignment="Left" Height="107" Margin="10,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="273"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="10,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" Background="White"/>
+        <ComboBox x:Name="cmbPlatform" HorizontalAlignment="Left" Margin="376,111,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="txtQuantity" HorizontalAlignment="Left" Height="23" Margin="13,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="txtGenre" HorizontalAlignment="Left" Height="23" Margin="146,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="116"/>
+        <TextBox x:Name="txtCode" HorizontalAlignment="Left" Height="23" Margin="143,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Height="23" Margin="267,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="83"/>
+        <ComboBox x:Name="cmbPegi" Margin="267,111,192,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnAdd" Content="Add Game" HorizontalAlignment="Left" Margin="414,261,0,0" VerticalAlignment="Top" Width="85" Height="40" Click="btnAdd_Click"/>
+        <TextBox x:Name="txtRating" HorizontalAlignment="Left" Height="23" Margin="376,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="lblRating" Content="Rating" HorizontalAlignment="Left" Margin="376,147,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="324,261,0,0" VerticalAlignment="Top" Width="85" Height="40" Click="btnCancel_Click"/>
+
+    </Grid>
+</Window>

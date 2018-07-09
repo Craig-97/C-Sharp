@@ -1,0 +1,12 @@
+﻿<Window x:Class="SimplyGames.StaffSelection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StaffSelection" Height="250" Width="300">
+    <Grid>
+        <Button x:Name="btnEditGame" Content="Edit Game" HorizontalAlignment="Left" Margin="18,45,0,0" VerticalAlignment="Top" Width="125" Height="30" Click="btnEditGame_Click"/>
+        <Button x:Name="btnPlaceOrder" Content="Place Order" HorizontalAlignment="Left" Margin="148,45,0,0" VerticalAlignment="Top" Width="125" Height="30" Click="btnPlaceOrder_Click"/>
+        <Button x:Name="btnAddGame" Content="Add Game" HorizontalAlignment="Left" Margin="18,10,0,0" VerticalAlignment="Top" Width="125" Height="30" Click="btnAddGame_Click"/>
+        <Button x:Name="btnSearchGame" Content="Search Games" HorizontalAlignment="Left" Margin="148,10,0,0" VerticalAlignment="Top" Width="125" Height="30" Click="btnSearchGame_Click"/>
+
+    </Grid>
+</Window>
